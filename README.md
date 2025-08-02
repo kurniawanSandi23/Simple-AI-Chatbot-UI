@@ -21,6 +21,14 @@ Ini adalah antarmuka chatbot AI berbasis HTML, CSS, dan JavaScript sederhana den
 - `static/background.jpg` – latar belakang futuristik
 - `README.md` – panduan penggunaan
 
+simple-ai-chatbot-ui/
+│
+├── index.html                # File utama antarmuka chatbot
+├── README.md                 # Panduan penggunaan dan informasi proyek
+├── static/
+│   └── background.jpg        # Gambar latar belakang chatbot
+└── assets/                   # (Opsional) Tambahan gambar/icon jika diperlukan
+
 ## 📬 Kontak
 - Email: kurniawan.sandi.tik22@mhsw.pnj.ac.id
 - WA: +62 895-1857-3420
